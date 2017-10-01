@@ -1,0 +1,142 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+a {
+    text-decoration: none;
+    color:orange;
+}
+.wrapper {
+    width:970px;
+    margin: 0 auto;
+    position:relative;
+}
+
+.head {
+    width: 970px;
+    height: 500px;
+    display: inline-block;
+    background-color: #2a5a83;
+}
+
+#logo {
+    width: 290px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#textOption {
+    display: inline-block;
+    position: absolute;
+    top: 9px;
+    right: 97px;
+    color: white;
+}
+
+span {
+    color: black;
+}
+
+#searchbar {
+    display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    top: 34px;
+    right: 15px;
+    background-color: #464646;
+
+}
+
+#search {
+    background-color: #464646;
+    width: 342px;
+    height: 57px;
+}
+
+#form {
+    display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    top: 13px;
+    right: 43px;
+}
+
+input {
+    width: 190px;
+    height: 27px;
+}
+
+button {
+    width: 40px;
+    height: 30px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+}
+
+#navbar {
+    display: inline-block;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 40px;
+    left: 110px;
+    background-color: #3776ab;
+    box-shadow: 2px 2px 3px black;
+    border-radius: 5px;
+    height: 40px;
+
+}
+
+.nav {
+    color: white;
+    text-decoration: none;
+    margin: -3px;
+}
+
+.bar {
+    padding:12px 28px;
+}
+
+#links {
+    display: inline-block;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 153px;
+    left: 105px;
+}
+
+.linkItem {
+    display: block;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 25px;
+    margin-top: 10px;
+}
+
+.bullet {
+    list-style-type: square;
+    list-style-position: inside;
+}
+#history {
+    display: inline-block;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 207px;
+    left: 557px;
+    width: 300px;
+
+
+}
+
+#first {
+    font-size: 9px;
+}

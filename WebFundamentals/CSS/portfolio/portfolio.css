@@ -1,0 +1,267 @@
+body {
+	margin:0 auto;
+	background-color: #f2f2f2;
+
+
+}
+.wrapper {
+	width:965px;
+	Height:1100px;
+	margin:0 auto;
+	background-color: #6f5964;	
+}
+
+.contentWrapper {
+	width:965px;
+	Height:1046px;
+	margin:0 auto;
+	background-color: #6f5964;	
+}
+
+.header {
+	background-color: #c0c0c0;
+}
+
+#meImage {
+	width:400px;
+	border: 3px solid #c0c0c0;
+	display:inline-block;
+	margin:20px 20px 15px 20px;
+
+}
+#jayne {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	display:inline-block;
+	width:600px;
+	padding-left: 15px;
+}
+
+#master {
+	font-family: Arial, Helvetica, sans-serif;
+	display:inline-block;
+}
+
+.bio {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    display: inline-block;
+    width: 490px;
+    height: 269px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+#about {
+    background-color: #c0c0c0;
+    padding: 5px;
+    height: 36px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-left: 12px;
+}
+
+.hello {
+    margin-left: 12px;
+}
+
+/*La Mode Column*/
+
+.laMode {
+	font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    display: inline-block;
+    width:285px;
+    height: 630px;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+
+#mode {
+    background-color: #c0c0c0;
+    padding: 5px;
+    height: 36px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-left: 12px;
+}
+
+
+#laModeImage {
+    display: inline-block;
+    width:285px;
+}
+
+#laModecontent {
+    margin-left: 12px;
+}
+
+#modeTech {
+	background-color: #c0c0c0;
+    padding: 5px;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-top: 74px;
+    padding-top: 9px;
+    padding-left: 12px;
+}
+
+#buttonMode {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-shadow: 1px 1px 3px #464444;
+    background-color: green;
+    margin-left: 98px;
+    border-radius: 11px;
+    height: 29px;
+    box-shadow: 2px 2px 5px #464444;
+    margin-top: 10px;
+}
+
+/*Family Contacts Column*/
+
+.familyContacts {
+	font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    display: inline-block;
+    width:285px;
+    height: 630px;
+    margin-left: 20px;
+    vertical-align: top;
+}
+
+#contacts {
+    background-color: #c0c0c0;
+    padding: 5px;
+    height: 36px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-left: 12px;
+}
+
+
+#familyImage {
+    display: inline-block;
+    width:285px;
+}
+
+#familyContent {
+    margin-left: 12px;
+    margin-right: 12px
+}
+
+#famTech {
+	background-color: #c0c0c0;
+    padding: 5px;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-top: 38px;
+    padding-top: 9px;
+    padding-left: 12px;
+}
+
+#famButton {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-shadow: 1px 1px 3px #464444;
+    background-color: green;
+    margin-left: 80px;
+    border-radius: 11px;
+    height: 29px;
+    box-shadow: 2px 2px 5px #464444;
+    margin-top: 10px;
+}
+
+
+
+/*fiveEleven*/
+
+.fiveEleven {
+	font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    display: inline-block;
+    width:285px;
+    height: 630px;
+    margin-left: 28px;
+    vertical-align: top;
+}
+
+#five {
+    background-color: #c0c0c0;
+    padding: 5px;
+    height: 36px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-left: 12px;
+}
+
+
+#fiveElevenimage {
+    display: inline-block;
+    width:260px;
+}
+
+#fiveContent {
+    margin-left: 12px;
+    margin-right: 12px
+}
+
+#fiveTech {
+	background-color: #c0c0c0;
+    padding: 5px;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 9px;
+    padding-left: 12px;
+}
+
+#fiveButton {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-shadow: 1px 1px 3px #464444;
+    background-color: green;
+    margin-left: 100px;
+    border-radius: 11px;
+    height: 29px;
+    box-shadow: 2px 2px 5px #464444;
+    margin-top: 10px;
+}
+
+
+.logos {
+	width: 35px;
+	margin: 5px;
+	margin-left: 8px;
+}
+
+/*Footer*/
+
+.smedia {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #c0c0c0;
+	text-align: center;
+	height:92px;
+}
+
+.footLogos {
+	display: inline-block;
+	width: 25px;
+}
+
+#email {
+	padding-top: 16px;
+}
+
+
+
+
+
+
+
+
+
+

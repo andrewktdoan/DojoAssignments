@@ -1,0 +1,24 @@
+#wrapper {
+	/*background-color: grey;*/
+    display: inline-block;
+    width: 960px;
+    height: 900px;
+    text-align: center;
+}
+
+#ninjaCat {
+    width: 300px;
+    margin-top: 86px;
+    margin-left: 332px;
+
+}
+
+h1 {
+	color:mediumvioletred;
+	text-shadow: 2px 2px 4px black;
+
+
+}
+/*img {
+	opacity:0;
+}*/

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Random Number Generator</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+
+//CONNECTION CHECK
+		// $("button").click(function() {
+		// (alert) ("JS ONLINE!");
+		// });
+
+		$("button").click(function(){
+			var val = wining
+			$("textarea").append(winning);
+
+		});
+
+
+
+
+		});
+	</script>
+	<script>
+
+		function randomNumber(q){
+
+			while(q > 5){  // Declaring the wining number
+
+				q--;  //q = quarters ($$$) to play. Decrease 1 q every time this loop runs.
+
+
+				var num = Math.floor(Math.random()*100) + 1;  //Generate random number	
+
+
+				var winning = Math.floor(Math.random()*51) + 50;  //Calculate winnings
+
+
+				if (num == 5){  //Winning condition	
+
+				return winning + q;  //Payout calculation
+
+				}
+			}
+			return q;  //GAME OVER
+
+		}
+
+
+	</script>
+	<style>
+		#container{
+			margin: 0 auto;
+			vertical-align: top;
+			text-align: center;
+			width:600px;
+			height: 60px;
+			font-family:"Lucida Console", Monaco, monospace;
+			font-weight: bold;
+		}
+		button {
+			width:300px;
+			height:75px;
+			box-shadow: 2px 2px 4px black;
+			margin-top: 25px;
+			background-color: green;
+			font-size:24px;
+			color:white;
+			text-shadow: 1px 1px 3px black;
+			display:inline-block;
+			border-radius: 7px;
+		}
+		textarea{
+			width: 290px;
+ 			height: 75px;
+ 			box-shadow: 2px 2px 4px black;
+ 			margin-top: 100px;
+			border-radius: 7px;
+
+		}
+
+		h1 {
+			font-weight: bold;
+			color: green;
+			text-shadow: 1px 1px 1px black;
+			font-size:40px;
+
+
+		}	
+	</style>
+</head>
+<body>
+
+
+	<div id="container">
+		<h1>NINJA SLOT MACHINE</h1>
+		<div>
+		<textarea name="text" id="numVault" cols="30" rows="10"></textarea>
+		</div>
+		<button>PRESS TO PLAY</button>
+	</div>
+</body>
+</html>

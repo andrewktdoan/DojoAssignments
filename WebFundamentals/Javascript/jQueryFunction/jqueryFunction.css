@@ -1,0 +1,70 @@
+.contentWrapper {
+	margin: 0, auto;
+}
+.items{
+	display: none;
+}
+
+/*.itemsUp{
+	display: none;
+}*/
+
+button {
+	display: block;
+}
+
+.slideToggleImage {
+	width:200px;
+/*	display: none;
+*/
+}
+
+.fadeInImage {
+	width:300px;
+	display: none;
+
+}.fadeOutImage {
+	width:300px;
+	/*display: none;*/
+}
+
+
+/*ADD CLASS*/
+.class {
+	font-family: arial;
+	color: red;
+	font-weight: bold;
+	font-size: 50px;
+
+}
+
+h2 {
+	color: red;
+}
+
+div {
+	border-top: 1px solid blue;
+	border-bottom: 1px solid blue;
+}
+
+button{
+	margin: 10px;
+    height: 40px;
+    width: 187px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: lightblue;
+    box-shadow: 3px 4px 1px #888888;
+}
+
+.dataButton {
+	margin: 10px;
+    height: 40px;
+    width: 300px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: lightblue;
+    box-shadow: 3px 4px 1px #888888;
+}

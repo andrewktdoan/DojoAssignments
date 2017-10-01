@@ -1,0 +1,279 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/*
+font 
+Tahoma, Geneva, sans-serif	
+
+*/
+body {
+	background-color: #062134;
+	position: relative;
+	width: 970px;
+	height: 1150px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	background-color: #062134;
+	position: relative;
+}
+#james {
+	display: inline-block;
+	font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    font-size: 28px;
+    position: relative;
+    top: 65px;
+    left: 21px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#navbar {
+    display: inline-block;
+    font-family: Tahoma, Geneva, sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 74px;
+    right: 0px;
+}
+
+.nav {
+	color: white;
+	text-decoration: none;
+	margin: -3px;
+}
+
+.bar {
+	padding:12px 28px;
+}
+
+.contentWrapper {
+	background-color: white;
+	width:970px;
+	height:1000px;
+	position:relative;
+	top: 92px;
+	margin: 0 auto;
+}
+
+#mainImage {
+	width: 935px;
+	position: absolute;
+	top: 19px;
+	left: 16px;
+}
+
+
+.services {
+	background-color: #1468a8;
+	width:275px;
+	height:200px;
+	position:absolute;
+	top:440px;
+	left:16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding:10px;
+    text-align: center;
+
+}
+
+.h1Header {
+	font-weight: normal;
+	text-align: left;
+
+}
+.icon{
+	width:30px;
+	padding-right: 7px;
+
+}
+#srvcInfo {
+	margin-top: 10px;
+}
+button {
+	width: 135px;
+    height: 35px;
+    position: absolute;
+    top: 169px;
+    left: 15px;
+}
+
+
+.projects {
+	background-color: #1468a8;
+	width:275px;
+	height:200px;
+	position:absolute;
+	top:440px;
+	left:337px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding:10px;
+    text-align: center;
+}
+
+#projectInfo {
+	margin-top: 10px;
+
+}
+
+.clients {
+	background-color: #1468a8;
+	width:275px;
+	height:200px;
+	position:absolute;
+	top:440px;
+	left:658px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding:10px;
+    text-align: center;	
+}
+
+.clientsInfo {
+	margin-top: 10px;
+
+}
+
+#theWorld {
+	display: inline-block;
+	position:absolute;
+	top:700px;
+	left:16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+#building {
+	display: inline-block;
+    width: 298px;
+    position: absolute;
+    top: 754px;
+    left: 14px;
+}
+#ourGoal {
+    display: inline-block;
+    width: 300px;
+    height: 196px;
+    position: absolute;
+    top: 740px;
+    left: 331px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+
+}
+
+.goalInfo {
+	margin-top: 12px;
+}
+
+#learnMore{
+	font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 18px;
+    text-decoration: none;
+
+}
+
+#testi {
+	display: inline-block;
+	position:absolute;
+	top:700px;
+	right:20px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+#quote {
+    display: inline-block;
+    width: 275px;
+    height: 111px;
+    position: absolute;
+    top: 755px;
+    right: 17px;
+    background-color: #daedff;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#sam {
+    display: inline-block;
+    width: 300px;
+    height: 196px;
+    position: absolute;
+    top: 901px;
+    left: 658px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+
+#footerNavbar {
+	font-family: Tahoma, Geneva, sans-serif;
+    background-color: #daedff;
+    width: 100%;
+    height: 95px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 944px;
+    right: 0px;
+    padding-top: 19px;
+    border-top: 2px solid black;
+
+}
+
+.footnav {
+	text-decoration: none;
+	margin: -3px;
+}
+
+.footbar {
+	padding:12px 28px;
+}
+
+/*.footer {
+    background-color: #daedff;
+    display:inline-block;
+    position: absolute;
+    top: 1000px;
+
+}*/
+/*button color:  #47adec  #1992de*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+span {
+	color: #1a98e7;
+}
